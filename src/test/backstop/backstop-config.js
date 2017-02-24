@@ -58,8 +58,8 @@ module.exports = {
   "viewports": viewports,
   "scenarios": scenariosArray,
   "paths": {
-    "bitmaps_reference": "src/test/backstop/data/html_report/bitmaps_reference",
-    "bitmaps_test": "src/test/backstop/data/html_report/bitmaps_test",
+    "bitmaps_reference": "src/test/backstop/data/bitmaps_reference",
+    "bitmaps_test": "src/test/backstop/data/bitmaps_test",
     "casper_scripts": "src/test/backstop/data/casper_scripts",
     "html_report": "src/test/backstop/data/html_report",
     "ci_report": "src/test/backstop/data/ci_report"
