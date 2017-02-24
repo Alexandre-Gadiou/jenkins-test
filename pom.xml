@@ -46,23 +46,19 @@
                      <phase>generate-resources</phase>
                      <configuration>
                         <executable>npm</executable>
-                        <arguments>
-                            <argument>install</argument>
-                        </arguments>
+                        <arguments>install</arguments>
                      </configuration>
                 </execution>
                 <execution>
                      <id>gulp backstop_test</id>
                      <goals>
-                         <goal>gulp backstop_test</goal>
+                         <goal>gulp</goal>
                      </goals>
                      <phase>generate-resources</phase>
-                      <configuration>
-                            <executable>gulp</executable>
-                            <arguments>
-                                <argument>backstop_test</argument>
-                            </arguments>
-                        </configuration>
+                     <configuration>
+                        <executable>gulp</executable>
+                        <arguments>backstop_test</arguments>
+                     </configuration>
                 </execution>
             </executions>
          </plugin>
