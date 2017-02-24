@@ -1,0 +1,13 @@
+{
+  "name": "nantesco-ui-test",
+  "urls" : [
+    "http://nm-nantesco.clients.smile.fr/home.html",
+    "http://nm-nantesco.clients.smile.fr/home/quartiers/centre-ville.html",
+    "http://nm-nantesco.clients.smile.fr/home/quartiers/centre-ville/forum.html",
+    "http://nm-nantesco.clients.smile.fr/home/quartiers/centre-ville/participer.html",
+    "http://nm-nantesco.clients.smile.fr/home/quartiers/centre-ville/participer/2015/groupe-amenagement-de-proximite.html",
+    "http://nm-nantesco.clients.smile.fr/home/cgu.html",
+    "http://nm-nantesco.clients.smile.fr/home/charte-dutilisation-1.html",
+    "http://nm-nantesco.clients.smile.fr/home/nous-contacter.html"
+  ]
+}
